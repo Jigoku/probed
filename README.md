@@ -1,6 +1,8 @@
 # probed
 A module tracker for Linux
 
+![screenshot_2017-10-15_23-00-20](https://user-images.githubusercontent.com/1535179/31589635-a88472b4-b1fc-11e7-9fb0-8d691e481bde.png)
+
 ### What is this?
 probed is a tiny script for tracking used kernel modules over time.   
 This can be very useful if you choose to compile your kernel with `make localmodconfig`
